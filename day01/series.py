@@ -31,4 +31,3 @@ series_idades.std()
 series_idades.describe()
 # %%
 series_idades.shape
-# %%
